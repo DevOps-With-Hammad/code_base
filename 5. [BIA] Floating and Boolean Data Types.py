@@ -27,3 +27,13 @@ print(f"The Sum of num2 and num3 is :>> {float(num4) + float(num3)}")
         # ValueError: could not convert string to float: '55.20322.322'
 
 # print(f"The Sum of num3 and num4 is :>> {num3 + num4}")
+
+
+
+# let's do some practice in Boolean
+veer = bool(1)
+veer1 = bool(0)
+veer2 = bool(3)
+veer3 = bool(10)
+print(veer, veer1, veer2)
+print(veer3)
