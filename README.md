@@ -1,9 +1,16 @@
-# Part 1 Into 
+# Part 2 2-level2-Dvars_Types 
   - 1. Welcome, How to Take the Course and How to Download the Free Python Book
-  - 2. [BIA] Introduction to Python (What, Why and How of Level 1)
-  - 4. [BIA] Exercise 1.1 Our First Python Code “Hello World”
-  - 5. [BIA] Answer 1.1 Our first Python Code “Hello World”
-  - 6. [BIA] Optional Lecture Who Uses Python & What are the Pros & Cons of Python
+  - 2. [BIA] How to Code Data Types & Variables in Python (String+Integer Variables)
+  - 3. [BIA] Exercise 2.1 Using String and Integer Data Types
+  - 4. [BIA] Answer 2.1 Using String and Integer Data Types
+  - 5. [BIA] Floating and Boolean Data Types
+  - 6. [BIA] Exercise 2.2 Using Floating and Boolean Data Types 
+  - 7. [BIA] Answer 2.2 Using Floating and Boolean Data Types
+  - 8. [BIA] How to Change the Content or Data Type of Variable (Casting)
+  - 9. [BIA] Exercise 2.3 How to Change the Content or Type of Variable
+  - 10. [BIA] Answer 2.3 How to Change the Content or Type of Variable
+  - 11. [BIA] Level 2 Final Exercise Currency Converter
+  - 12. [BIA] Level 2 Final Exercise Answer Currency Converter
 
 # How to get the Best out of the course ?
     - Downlaoding Pychrm community edition or any IDE you use or online IDE like replit, thoy, colab .. etc
