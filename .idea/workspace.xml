@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e2f87bd-8fc9-4e16-9615-37df6ec34242" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11. [IGA] Creating Basic Custom Functions Part 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9. [BIA] Exercise 4.3 Creating Custom Functions Part 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12. [IGA] Exercise 4.4 Creating Basic Custom Functions Part 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8. [BIA] Creating Basic Custom Functions Part1..py" beforeDir="false" afterPath="$PROJECT_DIR$/8. [BIA] Creating Basic Custom Functions Part1..py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.11. [IGA] Creating Basic Custom Functions Part 2.executor": "Run",
+    "Python.12. [IGA] Exercise 4.4 Creating Basic Custom Functions Part 2.executor": "Run",
     "Python.2. [BIA] Basic Built in Python Functions that Use Math.executor": "Run",
     "Python.3. [BIA] Exercise 4.1 Built in Functions that Use Math.executor": "Run",
     "Python.6. [BIA] Exercise 4.2 Input Built in Python Function.executor": "Run",
@@ -45,7 +44,7 @@
     "last_opened_file_path": "G:/Python Sytanx"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.11. [IGA] Creating Basic Custom Functions Part 2">
+  <component name="RunManager" selected="Python.12. [IGA] Exercise 4.4 Creating Basic Custom Functions Part 2">
     <configuration name="11. [IGA] Creating Basic Custom Functions Part 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-2024" />
       <option name="ENV_FILES" value="" />
@@ -68,8 +67,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3. [BIA] Exercise 4.1 Built in Functions that Use Math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Sytanx" />
+    <configuration name="12. [IGA] Exercise 4.4 Creating Basic Custom Functions Part 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-2024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. [BIA] Exercise 4.1 Built in Functions that Use Math.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12. [IGA] Exercise 4.4 Creating Basic Custom Functions Part 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12. [IGA] Exercise 4.4 Creating Basic Custom Functions Part 2" />
         <item itemvalue="Python.11. [IGA] Creating Basic Custom Functions Part 2" />
         <item itemvalue="Python.9. [BIA] Exercise 4.3 Creating Custom Functions Part 1" />
         <item itemvalue="Python.8. [BIA] Creating Basic Custom Functions Part1." />
         <item itemvalue="Python.6. [BIA] Exercise 4.2 Input Built in Python Function" />
-        <item itemvalue="Python.3. [BIA] Exercise 4.1 Built in Functions that Use Math" />
       </list>
     </recent_temporary>
   </component>
