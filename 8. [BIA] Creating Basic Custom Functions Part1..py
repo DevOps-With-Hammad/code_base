@@ -10,3 +10,8 @@ def home():
         print("Oh no, you should do more practice.")
 
 home()
+"""
+This is a function  takes 2 parameters as name and number of department. then checks if the inserted value are the right
+ value for this records.
+ return a message about the status value.
+"""
