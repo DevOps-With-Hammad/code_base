@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e2f87bd-8fc9-4e16-9615-37df6ec34242" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/14. [IGA] Creating Advanced Functions (Keyword and Default Values).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. [IGA] Exercise 4.5 Creating Advanced Functions  Keyword and Default Values).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,8 @@
   "keyToString": {
     "Python.11. [IGA] Creating Basic Custom Functions Part 2.executor": "Run",
     "Python.12. [IGA] Exercise 4.4 Creating Basic Custom Functions Part 2.executor": "Run",
+    "Python.14. [IGA] Creating Advanced Functions (Keyword and Default Values).executor": "Run",
+    "Python.15. [IGA] Exercise 4.5 Creating Advanced Functions  Keyword and Default Values).executor": "Run",
     "Python.2. [BIA] Basic Built in Python Functions that Use Math.executor": "Run",
     "Python.3. [BIA] Exercise 4.1 Built in Functions that Use Math.executor": "Run",
     "Python.6. [BIA] Exercise 4.2 Input Built in Python Function.executor": "Run",
@@ -43,7 +46,7 @@
     "last_opened_file_path": "G:/Python Sytanx"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.12. [IGA] Exercise 4.4 Creating Basic Custom Functions Part 2">
+  <component name="RunManager" selected="Python.15. [IGA] Exercise 4.5 Creating Advanced Functions  Keyword and Default Values)">
     <configuration name="11. [IGA] Creating Basic Custom Functions Part 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-2024" />
       <option name="ENV_FILES" value="" />
@@ -88,29 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6. [BIA] Exercise 4.2 Input Built in Python Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Sytanx" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. [BIA] Exercise 4.2 Input Built in Python Function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="8. [BIA] Creating Basic Custom Functions Part1." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14. [IGA] Creating Advanced Functions (Keyword and Default Values)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-2024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +104,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8. [BIA] Creating Basic Custom Functions Part1..py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14. [IGA] Creating Advanced Functions (Keyword and Default Values).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15. [IGA] Exercise 4.5 Creating Advanced Functions  Keyword and Default Values)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. [IGA] Exercise 4.5 Creating Advanced Functions  Keyword and Default Values).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15. [IGA] Exercise 4.5 Creating Advanced Functions  Keyword and Default Values)" />
+        <item itemvalue="Python.14. [IGA] Creating Advanced Functions (Keyword and Default Values)" />
         <item itemvalue="Python.12. [IGA] Exercise 4.4 Creating Basic Custom Functions Part 2" />
         <item itemvalue="Python.11. [IGA] Creating Basic Custom Functions Part 2" />
         <item itemvalue="Python.9. [BIA] Exercise 4.3 Creating Custom Functions Part 1" />
-        <item itemvalue="Python.8. [BIA] Creating Basic Custom Functions Part1." />
-        <item itemvalue="Python.6. [BIA] Exercise 4.2 Input Built in Python Function" />
       </list>
     </recent_temporary>
   </component>
