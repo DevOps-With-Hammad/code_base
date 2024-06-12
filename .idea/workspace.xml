@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e2f87bd-8fc9-4e16-9615-37df6ec34242" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/12. [IGA] Exercise 4.4 Creating Basic Custom Functions Part 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. [IGA] Creating Advanced Functions (Keyword and Default Values).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
