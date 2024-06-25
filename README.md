@@ -2,23 +2,23 @@
     - Lets GO ......
 
 # Python course 2024- Content:-
-- Intro, How to Take the Course, Access Free Python Book & Our First Exercise
-- Level 2 Data Types and Variables
-- Level 3 Python Math (Meaning Operators) and Strings.
-- Level 4 Built-in Functions & Creating Basic Functions
-- Level 5 The List Data Type and the Sum Function
-- Level 6 Logic and Loops
-- Level 7 3 More Data Types Tuple, Dictionary and Set
--  Level 8 Methods and Advanced Strings
-- Level 9 Object-Oriented Programming (OOP) & Classes
--  Level 10 Mastering NumPy (Numerical Python)
-- Level 11 Pandas and Polars
-- Level 12 Data Processing and ETL (Extract, Transform and Load)
-- Level 13 Writing Clean and Efficient Code
-- Level 13 Writing Clean and Efficient Code
-- Level 15 Mojo
-- Level 16 All Built-In Python Functions
-- Level 17 Conclusion, Next Steps and Additional Python Topics
+  - 1[BIGA] Intro to Logic and Loops (What, Why and How of Level 6)
+    - Level 2 Data Types and Variables
+    - Level 3 Python Math (Meaning Operators) and Strings.
+    - Level 4 Built-in Functions & Creating Basic Functions
+    - Level 5 The List Data Type and the Sum Function
+    - Level 6 Logic and Loops
+    - Level 7 3 More Data Types Tuple, Dictionary and Set
+    -  Level 8 Methods and Advanced Strings
+    - Level 9 Object-Oriented Programming (OOP) & Classes
+    -  Level 10 Mastering NumPy (Numerical Python)
+    - Level 11 Pandas and Polars
+    - Level 12 Data Processing and ETL (Extract, Transform and Load)
+    - Level 13 Writing Clean and Efficient Code
+    - Level 13 Writing Clean and Efficient Code
+    - Level 15 Mojo
+    - Level 16 All Built-In Python Functions
+    - Level 17 Conclusion, Next Steps and Additional Python Topics
 
 # How to get the Best out of the course ?
     - Downlaoding Pychrm community edition or any IDE you use or online IDE like replit, thoy, colab .. etc
