@@ -17,3 +17,15 @@ for x in Deps:
     if Deps["Colors"][1] == "yellow":
         print(f"This is the second element in the the Dec Deps which is : \n "
           f"{Deps["Colors"][1]}")
+
+
+
+for x in Deps:
+    print(x+ f"{Deps["Colors"][1]}")
+    print(x + f"{Deps["Birds"][2]}")
+    print(x + f"{Deps["Animals"][-2]}")
+
+
+
+
+
