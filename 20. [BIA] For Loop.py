@@ -16,3 +16,13 @@ for c in Countries :
     else :
         print(c + " is  this filed are subjects related to tech industry\n "
                   "Do your best in that , you gonna thank me latter ")
+
+Chart = ["Ahmed", "Ali", "Eslam", "Nagy", "Medhat", "Gamel", "Younis", "Alaa"]
+
+for x in Chart :
+    if x == "Nagy" :
+        print(f"This is the Name you've searched for  {x}")
+        break
+
+    if x == "Alaa" :
+        print(f"{x + Chart[0:9]} this is  ")
