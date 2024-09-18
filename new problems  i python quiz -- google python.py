@@ -50,3 +50,11 @@ print(odd_numbers(1))  # Should be 1
 print(odd_numbers(3))  # Should be 1 3
 print(odd_numbers(0))  # No numbers displayed
 
+#########
+x = 1
+sum = 0
+while x <= 10:
+    sum += x
+    x = x+1
+print(sum)
+
