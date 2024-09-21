@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cabb23a-7012-4884-a5d8-9cddc18e91fc" name="Changes" comment="Formating problem" />
+    <list default="true" id="71b33d27-e699-4a81-a9ec-e006b131c621" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,65 +22,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="2imbGs2P3IoDgSxJb0ip86FLKVb" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.11. [BIGA] Using the MATCH and CASE Logic.executor": "Run",
-    "Python.12. [BIGA] Exercise 6.4 Using the MATCH and CASE Logic.executor": "Run",
-    "Python.14. [BIA] Formatting..executor": "Run",
-    "Python.15. [BIA] Exercise 6.5 Formatting.executor": "Run",
-    "Python.16. [BIA] Answer 6.5 Formatting.executor": "Run",
-    "Python.17. [BIA] Slicing.executor": "Run",
-    "Python.18. [BIA] Exercise 6.6 Slicing.executor": "Run",
-    "Python.19. [BIA] Answer 6.6 Slicing.executor": "Run",
-    "Python.20. [BIA] For Loop.executor": "Run",
-    "Python.21. [BIA] Exercise 6.7 For Loop.executor": "Run",
-    "Python.22. [BIA] Answer 6.7 For Loop.executor": "Run",
-    "Python.23. [BIA] While Loop.executor": "Run",
-    "Python.4. [BIA] Answer 6.1 The IF, ELSE Statement.executor": "Run",
-    "Python.5. [BIA] Using A Nested IF Statement.executor": "Run",
-    "Python.6. [BIA] Exercise 6.2 Using A Nested IF Statement.executor": "Run",
-    "Python.8. [BIA] Using ELIF in an IF Statement and the OR & AND Logic.executor": "Run",
-    "Python.Common errors in for loops GoOgle Pyhon.executor": "Run",
-    "Python.How to Slice Strings.executor": "Run",
-    "Python.More for Loops in python #GOogle_python.executor": "Run",
-    "Python.More for loops examples # google_python.executor": "Run",
-    "Python.Multi table while loop in oython.executor": "Run",
-    "Python.Nested Loop #GoOgle_python.executor": "Run",
-    "Python.Nested for loops.executor": "Run",
-    "Python.What is recurison.executor": "Run",
-    "Python.Which of these options would output just the vowels from the following string.executor": "Run",
-    "Python.cube numbers form raange 1 to 10 for loops.executor": "Run",
-    "Python.for Loop form list print lenght and average # Googe_python.executor": "Run",
-    "Python.for Loop.executor": "Run",
-    "Python.for loop from google.executor": "Run",
-    "Python.for loop quize.executor": "Run",
-    "Python.multiplication table.executor": "Run",
-    "Python.new problems  i python quiz -- google python.executor": "Run",
-    "Python.print even number using for loop in form 0 to 18.executor": "Run",
-    "Python.while loop Google problem print even number from 2 to 12.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "G:/Python projects Using Pycharm community edition/SAM",
-    "settings.editor.selected.configurable": "project.scopes"
-  }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\Python-2024\Level-6-Logic-and-Loops" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.What is recurison">
-    <configuration name="What is recurison" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-2024" />
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,12 +31,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="C:\Users\Hammad\miniconda3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="G:\Python-2024\Level-6-Logic-and-Loops\What is recurison.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,155 +45,72 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Which of these options would output just the vowels from the following string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-2024" />
+    <configuration default="true" type="Tox" factoryName="Tox">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="C:\Users\Hammad\miniconda3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="G:\Python-2024\Level-6-Logic-and-Loops\Which of these options would output just the vowels from the following string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cube numbers form raange 1 to 10 for loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-2024" />
+    <configuration default="true" type="docs" factoryName="Docutils task">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="C:\Users\Hammad\miniconda3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="G:\Python-2024\Level-6-Logic-and-Loops\cube numbers form raange 1 to 10 for loops.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <module name="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="print even number using for loop in form 0 to 18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-2024" />
+    <configuration default="true" type="docs" factoryName="Sphinx task">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="C:\Users\Hammad\miniconda3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="G:\Python-2024\Level-6-Logic-and-Loops\print even number using for loop in form 0 to 18.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <module name="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.What is recurison" />
-      <item itemvalue="Python.Which of these options would output just the vowels from the following string" />
-      <item itemvalue="Python.cube numbers form raange 1 to 10 for loops" />
-      <item itemvalue="Python.print even number using for loop in form 0 to 18" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.What is recurison" />
-        <item itemvalue="Python.Which of these options would output just the vowels from the following string" />
-        <item itemvalue="Python.cube numbers form raange 1 to 10 for loops" />
-        <item itemvalue="Python.print even number using for loop in form 0 to 18" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="0cabb23a-7012-4884-a5d8-9cddc18e91fc" name="Changes" comment="" />
-      <created>1720098606922</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1720098606922</updated>
-    </task>
-    <task id="LOCAL؜-٠٠٠٠١" summary="Formating">
-      <option name="closed" value="true" />
-      <created>1725054126878</created>
-      <option name="number" value="٠٠٠٠١" />
-      <option name="presentableId" value="LOCAL؜-٠٠٠٠١" />
-      <option name="project" value="LOCAL؜" />
-      <updated>1725054126878</updated>
-    </task>
-    <task id="LOCAL؜-٠٠٠٠٢" summary="Formating problem">
-      <option name="closed" value="true" />
-      <created>1725062908340</created>
-      <option name="number" value="٠٠٠٠٢" />
-      <option name="presentableId" value="LOCAL؜-٠٠٠٠٢" />
-      <option name="project" value="LOCAL؜" />
-      <updated>1725062908340</updated>
-    </task>
-    <task id="LOCAL؜-٠٠٠٠٣" summary="Formating problem">
-      <option name="closed" value="true" />
-      <created>1725062920780</created>
-      <option name="number" value="٠٠٠٠٣" />
-      <option name="presentableId" value="LOCAL؜-٠٠٠٠٣" />
-      <option name="project" value="LOCAL؜" />
-      <updated>1725062920780</updated>
-    </task>
-    <task id="LOCAL؜-٠٠٠٠٤" summary="Formating problem">
-      <option name="closed" value="true" />
-      <created>1725062933509</created>
-      <option name="number" value="٠٠٠٠٤" />
-      <option name="presentableId" value="LOCAL؜-٠٠٠٠٤" />
-      <option name="project" value="LOCAL؜" />
-      <updated>1725062933509</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Formating" />
-    <MESSAGE value="Formating problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Formating problem" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Level-6-Logic-and-Loops/15. [BIA] Exercise 6.5 Formatting.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
